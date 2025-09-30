@@ -14,10 +14,14 @@ namespace Aufgabe12
 
         static int[] SumUp(int[] arr)
         {
-            //Rückgabe-Array initialisieren 
             int[] result = new int[arr.Length];
 
-            //todo: Array "result" gemäss Aufgabenstellung mit den aufsummierten Werten füllen
+            int sum = 0;
+            for(int i = 0; i < arr.Length; i++)
+            {
+                sum += arr[i];
+                result[i] = sum;
+            }
 
             return result;
         }
