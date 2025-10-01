@@ -31,8 +31,7 @@ namespace Aufgabe11
                 Environment.Exit(0);
             }
 
-            Console.WriteLine("");
-            Console.WriteLine("Zahl 1: " + zahl);
+            Console.WriteLine("\nZahl 1: " + zahl);
             Console.WriteLine("Zahl 2: " + zahl2);
 
             Console.WriteLine("-----------------------------------------------");
