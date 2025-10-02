@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe19", "Aufgabe19\Aufg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe20", "Aufgabe20\Aufgabe20.csproj", "{F0BA651B-0B0E-4DEE-A69A-9E4468C8546A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KÜR.Waldbrand", "KÜR.Waldbrand\KÜR.Waldbrand.csproj", "{5B435F2F-CF70-4DCC-B7C2-FC60E9EA78D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{F0BA651B-0B0E-4DEE-A69A-9E4468C8546A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0BA651B-0B0E-4DEE-A69A-9E4468C8546A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0BA651B-0B0E-4DEE-A69A-9E4468C8546A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B435F2F-CF70-4DCC-B7C2-FC60E9EA78D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B435F2F-CF70-4DCC-B7C2-FC60E9EA78D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B435F2F-CF70-4DCC-B7C2-FC60E9EA78D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B435F2F-CF70-4DCC-B7C2-FC60E9EA78D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
